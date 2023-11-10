@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Erol Mandazhiev
-- 👀 I’m interested in fitness , walk in ecopath and мountains
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-- Facebook -> https://www.facebook.com/?locale=bg_BG
-- Gmail -> erolmandazhiev@gmail.com
+- 👀 I’m interested in fitness , walk in ecopath and мountains !
+- 🌱 I’m currently learning JavaScript !
 
 
 <!---
