@@ -13,4 +13,4 @@ Languages and Tools I know: JavaScript , HTML and CSS..
 
 If you want to see my CERTIFICATE -> https://github.com/erolcoo/CERTIFICATE-FROM-SOFTUNI 
 
-Thnaks for you time.!
+Thanks for you time.!
