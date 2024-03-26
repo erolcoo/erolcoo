@@ -6,7 +6,7 @@ I’m started learning JavaScript at January 2023  💻✅!
 
 ----------------------------------------------
 
-Languages and Tools I know: JavaScript , HTML and CSS..
+Languages and Tools I know: JavaScript, HTML and CSS, Angular..
 
 ----------------------------------------------
 
