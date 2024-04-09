@@ -1,4 +1,4 @@
-Hi, I’m Erol Mandazhiev !
+Hello I’m Erol Mandazhiev !
 
 I’m interested in sports 🏋️‍♂️ walk in ecopath and мountains 🏔️🌳!
 
