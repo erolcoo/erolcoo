@@ -1,7 +1,6 @@
 Hello I’m Erol Mandazhiev !
 
 I’m interested in sports 🏋️‍♂️ walk in ecopath and мountains 🏔️🌳!
-
 I’m started learning JavaScript at January 2023  💻✅!
 
 ----------------------------------------------
