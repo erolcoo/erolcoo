@@ -9,6 +9,5 @@ Languages and Tools I know:
 JavaScript, HTML and CSS, Angular..
 Start learning TypeScript!
 ----------------------------------------------
-
 If you want to see my CERTIFICATE -> https://github.com/erolcoo/CERTIFICATE-FROM-SOFTUNI 
 Thanks for you time.!
