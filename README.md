@@ -6,7 +6,7 @@ I’m started learning JavaScript at January 2023  💻✅!
 ----------------------------------------------
 Languages and Tools I know:
 
-Angular, JavaScript, TypeScript, HTML and CSS,
+JavaScript, TypeScript, Angular, HTML and CSS,
 start learning and React..!
 ----------------------------------------------
 If you want to see my CERTIFICATE -> https://github.com/erolcoo/CERTIFICATE-FROM-SOFTUNI 
