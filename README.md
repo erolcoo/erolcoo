@@ -6,7 +6,7 @@ I'm a JavaScript developer! 💻✅
 ----------------------------------------------
 Languages and Tools I know:
 
-JavaScript, TypeScript, Angular, HTML and CSS, React..!
+JavaScript, TypeScript, HTML and CSS, Angular, React..!
 ----------------------------------------------
 If you want to see my CERTIFICATE -> https://github.com/erolcoo/CERTIFICATE-FROM-SOFTUNI 
 Thanks for you time.!
