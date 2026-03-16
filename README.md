@@ -2,7 +2,7 @@ Hello I’m Erol Mandazhiev  !
 
 I’m interested in sports 🏋️‍♂️ walk in ecopath and мountains 🏔️🌳!
 
-I'm a JavaScript developer! 💻✅
+I'm React developer! 💻✅
 ----------------------------------------------
 Languages and Tools I know:
 
